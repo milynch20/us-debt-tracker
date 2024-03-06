@@ -1,5 +1,5 @@
 # us-debt-tracker
-Analysis of Public and Goverment Debt
+Analysis of Public and Government Debt
 
 ## Final Outputs
 
